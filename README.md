@@ -1,4 +1,4 @@
-# PhoneVault — MERN Stack Smartphone Inventory Manager
+# VermaSmartphones — MERN Stack Smartphone Inventory Manager
 
 A full CRUD web application for managing smartphone inventory, built with **MongoDB, Express.js, React.js, and Node.js**.
 
